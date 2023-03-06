@@ -1,3 +1,7 @@
-body{
-    background-color: blueviolet;
+header{
+    background-color: rgb(212, 166, 255);
+}
+
+.cabecalho-imagem{
+width: 30%;
 }
