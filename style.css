@@ -21,3 +21,11 @@ display: inline-block;
 margin: 0 30px;
 font-size: 14px;
 }
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient(rgb(212, 166, 255),)
+}
